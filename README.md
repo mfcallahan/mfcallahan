@@ -1,26 +1,26 @@
-<h2 align="center">Hi, I'm Matt Callahan <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/hi.gif" width="25px"></h2>
+<h2 align="center">Hi, I'm Matt Callahan <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/hi.gif" width="25px"></h2>
 
 Computers have been my hobby since my dad bought our first family computer over 30 years ago - a 286 IBM PC clone running MS-DOS. I found [QBasic](https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/qbasic.png) on that computer and began teaching myself how to program. (Without Google or StackOverflow!) After receiving a [TI-83](https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/ti83.png) graphing calculator for algebra class in 6th grade, I quickly began making games and homework cheat programs with [TI-BASIC](https://en.wikipedia.org/wiki/TI-BASIC) to share with friends. My interest in programming extended through college, where my [Geographic Information Systems](https://geography.wisc.edu/gis/) major introduced me to Java, Python, and ActionScript + Flash. I am currently a Software Engineering Manager in Phoenix, Arizona, and I enjoy developing with C# and TypeScript.
 
 <h3 align="center">Languages and Frameworks I Use</h3>
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/c-sharp.svg" alt="C Sharp Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/c-sharp.svg" alt="C Sharp Logo" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/dotnet.svg" alt=".NET Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/dotnet.svg" alt=".NET Logo" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/typescript.svg" alt="TypeScript Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/typescript.svg" alt="TypeScript Logo" height="40" />
     </a>
     <a href="https://tc39.es/ecma262/2020/" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/javascript.svg" alt="JavaScript Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/javascript.svg" alt="JavaScript Logo" height="40" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/angular.svg" alt="Angular Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/angular.svg" alt="Angular Logo" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noopener">
-        <img src="https://github.com/mfcallahan/mfcallahan/blob/master/img/python.svg" alt="Python Logo" height="40" />
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/python.svg" alt="Python Logo" height="40" />
     </a>
 </p>
 
@@ -38,7 +38,17 @@ Computers have been my hobby since my dad bought our first family computer over 
 | [MB_Utils](https://github.com/mfcallahan/MB_Utils)                                                   | This repository contains a [MapBasic](https://en.wikipedia.org/wiki/MapBasic) (11.0) module and .NET (4.0) libraries which extend MBX programming capabilities. This project was the first library I ever wrote and while I have long since ended work on this project, I keep the repository public to show how my career and code quality has progressed.                                                                                                                                                         |                                                                                                                           |
 | [Adhoc](https://github.com/mfcallahan/adhoc)                                                         | This repository contains all my miscellaneous code, scripts, markup, configs, etc. Feel free to browse, but the code found here is not guaranteed to be stable (or good).                                                                                                                                                                                                                                                                                                                                           |                                                                                                                           |
 
-<h3 align="center">Contact</h3>
+<h2 align="center">
+    <a href="https://www.linuxmint.com/donors.php" target="_blank" rel="noopener">Support Linux Mint</a>
+
+</h3>
+<h3  align="center">
+    <a href="https://www.linuxmint.com/" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/linux-mint.svg" alt="Linux Mint Logo" height="40" />
+    </a>
+</h4>
+
+<h3 align="center">Contact Me</h3>
 <h4  align="center">
     📨 Email: <a href="mailto:matthew.callahan@outlook.com" target="_blank" rel="noopener">matthew.callahan@outlook.com</a><br/>
     🏠 Homepage: <a href="https://mfcallahan.com/" target="_blank" rel="noopener">mfcallahan.com</a><br/>
