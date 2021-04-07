@@ -38,15 +38,14 @@ Computers have been my hobby since my dad bought our first family computer over 
 | [MB_Utils](https://github.com/mfcallahan/MB_Utils)                                                   | This repository contains a [MapBasic](https://en.wikipedia.org/wiki/MapBasic) (11.0) module and .NET (4.0) libraries which extend MBX programming capabilities. This project was the first library I ever wrote and while I have long since ended work on this project, I keep the repository public to show how my career and code quality has progressed.                                                                                                                                                         |                                                                                                                           |
 | [Adhoc](https://github.com/mfcallahan/adhoc)                                                         | This repository contains all my miscellaneous code, scripts, markup, configs, etc. Feel free to browse, but the code found here is not guaranteed to be stable (or good).                                                                                                                                                                                                                                                                                                                                           |                                                                                                                           |
 
-<h2 align="center">
+<h3 align="center">
     <a href="https://www.linuxmint.com/donors.php" target="_blank" rel="noopener">Support Linux Mint</a>
-
 </h3>
-<h3  align="center">
+<div  align="center">
     <a href="https://www.linuxmint.com/" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/linux-mint.svg" alt="Linux Mint Logo" height="40" />
     </a>
-</h4>
+</div>
 
 <h3 align="center">Contact Me</h3>
 <h4  align="center">
