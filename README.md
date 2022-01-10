@@ -43,6 +43,6 @@ Computers have been my hobby since my dad bought our first family computer more 
     📨 Email: <a href="mailto:matthew.callahan@outlook.com" target="_blank" rel="noopener">matthew.callahan@outlook.com</a><br/>
     🏠 Homepage: <a href="https://mfcallahan.com/" target="_blank" rel="noopener">mfcallahan.com</a><br/>
     📝 Blog: <a href="https://mfcallahan.blog/" target="_blank" rel="noopener">mfcallahan.blog</a><br/>
-    🔗 LinkedIn: <a href="https://www.linkedin.com/in/mfcallahan1/" target="_blank" rel="noopener">linkedin.com/in/mfcallahan1</a>
+    🔗 LinkedIn: <a href="https://www.linkedin.com/in/mfcallahan1/" target="_blank" rel="noopener">linkedin.com/in/mfcallahan1</a><br/>
     👽 Reddit: <a href="https://www.reddit.com/user/K7MFC/" target="_blank" rel="noopener">reddit.com/u/K7MFC</a>
 </h4>
