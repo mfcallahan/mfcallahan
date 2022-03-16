@@ -10,6 +10,9 @@ Computers have been my hobby since my dad bought our first family computer 35 ye
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/dotnet.svg" alt=".NET Logo" height="40" />
     </a>
+        <a href="https://www.python.org" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/python.svg" alt="Python Logo" height="40" />
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/typescript.svg" alt="TypeScript Logo" height="40" />
     </a>
@@ -19,8 +22,8 @@ Computers have been my hobby since my dad bought our first family computer 35 ye
     <a href="https://angular.io" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/angular.svg" alt="Angular Logo" height="40" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener">
-        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/python.svg" alt="Python Logo" height="40" />
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/mfcallahan/mfcallahan/master/img/vue.svg" alt="Vue.js Logo" height="40" />
     </a>
 </p>
 
